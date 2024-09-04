@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/jmdroid.mk
+
+COMMON_LUNCH_CHOICES := jmdroid-eng
